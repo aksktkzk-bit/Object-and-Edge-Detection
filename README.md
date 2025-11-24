@@ -48,7 +48,11 @@ output.ppm
 
 For improvements, libraries such as OpenCV can be used. (An older version of opencv is available for C)
 
+# Github
+https://github.com/aksktkzk-bit/Object-and-Edge-Detection.git
+
 # Authors
 1. Mohmad Abdul Quadir
 2. Siddharth Arya
+
 3. Om Londhe
